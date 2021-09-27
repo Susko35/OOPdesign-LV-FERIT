@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "newProfile1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Doop\\LV5-Dizajn-OOP\\LV5-Dizajn-OOP"
+    }
+  }
+}
